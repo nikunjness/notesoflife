@@ -1,1 +1,33 @@
-theme: jekyll-theme-midnight
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: notesoflife
+email: me@nikunjthakkar.com
+description: > # this means to ignore newlines until "baseurl:"
+  Collection of experiences and observations presentend in the form of poetry.
+  Like a snow globe, life needs a shake. I’m collecting cherishable moments and embracing the chaotic beauty of shiny elements surging around, comfortable that eventually they will come to rest at a new level. 
+  We can’t calm storms, only endure. I wear many hats, many tables, & live by choice. 
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://poetry.nikunjthakkar.com" # the base hostname & protocol for your site
+github_username:    nikunjness
+instagram_username: nikunjness
+twitter_username:   nikunjness
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-coffeescript
