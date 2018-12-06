@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Like a snow globe, life needs a shake. I’m collecting cherishable moments and embracing the chaotic beauty of shiny elements surging around, comfortable that eventually they will come to rest at a new level. 
   We can’t calm storms, only endure. I wear many hats, many tables, & live by choice. 
   
-baseurl: "/poetry" # the subpath of your site, e.g. /blog
-url: "https://nikunjthakkar.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://poetry.nikunjthakkar.com" # the base hostname & protocol for your site
 github_username:    nikunjness
 instagram_username: nikunjness
 twitter_username:   nikunjness
