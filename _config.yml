@@ -31,3 +31,5 @@ markdown: kramdown
 
 plugins:
   - jekyll-coffeescript
+
+theme: jekyll-theme-minimal
